@@ -1,4 +1,4 @@
-# Pre-Entrega1// //Simulador Boliche
+# Pre-Entrega1// 
 //Simulador Boliche
 const precioEntrada = 9000;
 
